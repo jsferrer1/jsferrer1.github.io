@@ -609,6 +609,22 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   -webkit-animation: none;
   background-image: none;
 }
+
+/* rounded corners */
+
+.skills {
+    border-radius: 2em;
+    background: lightgray;
+    padding: 3px; 
+    height: 100%;
+    width: auto;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    margin: 1px;
+    /*white-space: nowrap;*/
+}
+
 /* Footer */
 footer{
   text-align: center;
